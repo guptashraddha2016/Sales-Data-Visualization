@@ -1,2 +1,2 @@
 # Sales-Data-Visualization
-Dashboard using Power BI
+ Create a Dashboard using Power BI
