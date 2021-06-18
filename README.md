@@ -6,6 +6,9 @@
  3. README File
 # Explaination
 I create a Dashboard on the basis of Sales and Profit. check the perforamance of sales and profit on the basis of different measures.
+# Dashboard
+![image](https://user-images.githubusercontent.com/84785759/122604446-97c56c80-d093-11eb-9d70-3e3895e5bb20.png)
+
 1. Profit Leaders
 
 ![image](https://user-images.githubusercontent.com/84785759/122448158-17830680-cfc2-11eb-803c-a70870b6b540.png)
