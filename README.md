@@ -21,7 +21,10 @@ I create a Dashboard on the basis of Sales and Profit. check the perforamance of
  
  ![image](https://user-images.githubusercontent.com/84785759/122449095-1c948580-cfc3-11eb-9463-07c98492fc17.png)
  
- 
+ 4. Segment Performance
+   
+   ![image](https://user-images.githubusercontent.com/84785759/122604611-d8bd8100-d093-11eb-9f3d-207484ce8004.png)
+
 
 
 
