@@ -25,7 +25,3 @@ I create a Dashboard on the basis of Sales and Profit. check the perforamance of
    
    ![image](https://user-images.githubusercontent.com/84785759/122604611-d8bd8100-d093-11eb-9f3d-207484ce8004.png)
 
-5. Revenue Generated
-
-  ![image](https://user-images.githubusercontent.com/84785759/122653491-7b443580-d162-11eb-9cf1-3786728483b4.png)
-
