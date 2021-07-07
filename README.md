@@ -1,9 +1,6 @@
 # Sales-Data-Visualization
  Create a Dashboard using Power BI
-# File Description
- 1. Power BI - Dashboard
- 2. Dataset
- 3. README File
+
 # Explaination
 I create a Dashboard on the basis of Sales and Profit. check the perforamance of sales and profit on the basis of different measures.
 # Dashboard
